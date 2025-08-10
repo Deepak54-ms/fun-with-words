@@ -1,0 +1,12 @@
+{
+  "title": "Fun with Words",
+  "startQuiz": "Start Quiz",
+  "next": "Next",
+  "chooseLanguage": "Choose Language",
+  "english": "English",
+  "hindi": "Hindi",
+  "correct": "Great job!",
+  "tryAgain": "Try again!",
+  "quizPrompt": "Which picture shows {{word}}?",
+  "speak": "Speak"
+}
